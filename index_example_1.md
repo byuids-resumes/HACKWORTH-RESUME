@@ -2,18 +2,16 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bridger Hackworth
+Data Scientist at Brigham Young University-Idaho
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+
+<a href="hackworthbridger@gmail.com">hackworthbridger@gmail.com</a>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Scientist
 
 ### Specialized in
 
@@ -27,18 +25,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2018`
+__University of Santa Cruz, California__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`January 2022 - now`
+__Brigham Young University-Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
