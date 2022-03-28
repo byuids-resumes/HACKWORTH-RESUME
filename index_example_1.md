@@ -1,7 +1,3 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
 # Bridger Hackworth
 Data Scientist at Brigham Young University-Idaho
 
