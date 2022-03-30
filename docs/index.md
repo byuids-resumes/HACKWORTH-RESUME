@@ -29,6 +29,10 @@ __Brigham Young University-Idaho ׀ B.S. in Data Science__
 * Intermediate Statistics in R
 * Business Fundamentals
 
+__Certifications__                                          
+* Data Science 
+* Machine Learning
+
 `5 quarters, 107 total credit hours`
 __University of California, Santa Cruz ׀ B.S. in Computer Science__
 * Abstract Programming in Python
