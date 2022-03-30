@@ -33,6 +33,10 @@ __University of California, Santa Cruz ׀ B.S. in Computer Science__
 * Vector Calculus
 * Calculus for Science, Engineering, and Math Majors
 
+__Certifications__
+* Data Science
+* Machine Learning Fundamentals
+
 ## Occupational Experience
 
 `December 2018 - February 2019`
